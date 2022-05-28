@@ -3,7 +3,7 @@
 const { get } = require("@11ty/eleventy/src/TemplateCache");
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "Mundo";
+const nuevaString = "Franco";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 23;
@@ -225,7 +225,7 @@ function deEuroAdolar(euro){
 }
 
 
-function esVocal(letra){
+function esVocal(letra){''
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
