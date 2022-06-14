@@ -18,6 +18,7 @@ function operacionMatematica(n1, n2, cb) {
   //Devolver el callback pasándole como argumentos los números recibidos.
   //Tu código:
   return cb(n1,n2);
+  
 }
 
 function sumarArray(numeros, cb) {
